@@ -1,0 +1,25 @@
+{
+    "tasks": {
+        "t1": {
+            "task_id": "t1",
+            "app_type": "enhanced",
+            "MAE2EL": 200
+        },
+        
+        "t2": {
+            "task_id": "t2",
+            "app_type": "native",
+            "MAE2EL": 200
+        },
+        "t3": {
+            "task_id": "t3",
+            "app_type": "enhanced",
+            "MAE2EL": 200
+        },
+        "t4": {
+            "task_id": "t4",
+            "app_type": "local",
+            "MAE2EL": 200
+        }
+    }
+  }

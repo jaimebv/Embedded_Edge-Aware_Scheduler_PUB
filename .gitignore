@@ -1,0 +1,11 @@
+
+Algorithm_tests/__pycache__/
+Algorithm_tests/.vscode/
+Algorithm_tests/supplicant_registry.db-journal
+Algorithm_tests/LOGS/
+Embedded-EES/include/config.h
+Embedded-EES/.vscode/settings.json
+Embedded-EES/include/config.h
+Algorithm_tests/Data/Files/
+*.pyc
+Algorithm_tests/Data/dataRaw_21-02-2023-18_08_47oe2el.txt

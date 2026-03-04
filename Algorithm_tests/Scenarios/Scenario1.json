@@ -1,0 +1,22 @@
+{
+    "file_name": "RTOSConfig_1.json",
+    "UE_location": 10,
+    "tasks": {
+        "t1": {
+            "task_id": "t1",
+            "pes": "pes_local"
+        },
+        "t2": {
+            "task_id": "t2",
+            "pes": "pes_local"
+        },
+        "t3": {
+            "task_id": "t3",
+            "pes": "pes_local"
+        },
+        "t4": {
+            "task_id": "t4",
+            "pes": "pes_local"
+        }
+    }
+}

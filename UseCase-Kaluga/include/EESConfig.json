@@ -1,0 +1,36 @@
+{
+    "tasks": {
+        "t1": {
+            "task_id": "t1",
+            "app_type": "enhanced",
+            "MAE2EL": 250,
+            "resources": 10,
+            "pes": "192.168.1.100",
+            "port": 6002
+        },
+        "t2": {
+            "task_id": "t2",
+            "app_type": "local",
+            "MAE2EL": 2000,
+            "resources": 10,
+            "pes": "127.0.0.1",
+            "port": 0
+        },
+        "t3": {
+            "task_id": "t3",
+            "app_type": "local",
+            "MAE2EL": 1000,
+            "resources": 10,
+            "pes": "127.0.0.1",
+            "port": 0
+        },
+        "t4": {
+            "task_id": "t4",
+            "app_type": "native",
+            "MAE2EL": 200,
+            "resources": 10,
+            "pes": "0.0.0.0",
+            "port": 8889
+        }
+    }
+}
